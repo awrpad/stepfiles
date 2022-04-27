@@ -1,9 +1,9 @@
-ISO-10303-21;
+
 HEADER;
 FILE_DESCRIPTION(('FTC-06 geometry only from the NIST MBE PMI Validation and Conformance Testing Project - go.usa.gov/mGVm'),'2;1');
 FILE_NAME('nist_ftc_06_asme1.stp','2015-05-27T17:43:46',(''),(''),'','','');
 FILE_SCHEMA (('AP203_CONFIGURATION_CONTROLLED_3D_DESIGN_OF_MECHANICAL_PARTS_AND_ASSEMBLIES_MIM_LF { 1 0 10303 403 2 1 2}'));
-ENDSEC;
+
 DATA;
 #10=GEOMETRICALLY_BOUNDED_WIREFRAME_SHAPE_REPRESENTATION(
 'nist_ftc_06_asme1_rd-None',(#95),#4991);
